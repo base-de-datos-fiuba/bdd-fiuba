@@ -1,5 +1,5 @@
 ---
-title: Parcialito 2
+title: "Parcialito 2"
 ---
 
 # Parcialito 2
