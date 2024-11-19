@@ -20,9 +20,9 @@ jobs:
       run: |
         docker build -t github-pages-site .
 
-    - name: Run container
+    - name: Run Jekyll Build
       run: |
-        docker run -d -p 4000:4000 github-pages-site
+        docker run github-pages-site bundle exec jekyll build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
