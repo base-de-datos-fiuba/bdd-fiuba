@@ -3,5 +3,5 @@ description: "Sitio de la materia Base de Datos - FIUBA"
 theme: minima
 
 collections:
-  material:
+  parcialitos:
     output: true
