@@ -22,10 +22,13 @@ jobs:
 
     - name: Run Jekyll Build
       run: |
-        docker run github-pages-site bundle exec jekyll build
+        docker run -v ${{ github.workspace }}/_site:/app/_site github-pages-site bundle exec jekyll build
+
+    - name: List generated site
+      run: ls -la ./_site
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.PAT_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
