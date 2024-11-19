@@ -7,13 +7,14 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* Centra la navbar */
         .navbar {
-            justify-content: center; /* Centra todo el contenido */
+            width: 100%; /* Ocupa todo el ancho */
         }
         .navbar-nav {
-            flex-direction: row; /* Hace que los enlaces estén en una línea horizontal */
+            flex-direction: row; /* Alinea los botones en línea horizontal */
+            justify-content: center; /* Centra los botones horizontalmente */
             gap: 15px; /* Espacio entre botones */
+            width: 100%; /* Asegura que los elementos ocupen el ancho completo */
         }
     </style>
 </head>
@@ -47,7 +48,7 @@
     </nav>
 
     <!-- Main Content -->
-    <div class="container main-content d-flex flex-column align-items-center justify-content-center" style="min-height: 80vh; text-align: center;">
+    <div class="container main-content" style="min-height: 80vh; text-align: center;">
         {{ content }}
     </div>
 
