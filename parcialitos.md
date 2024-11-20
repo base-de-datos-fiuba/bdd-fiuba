@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /bdd-fiuba/parcialitos/
+permalink: parcialitos/
 ---
 
 # Parcialitos
