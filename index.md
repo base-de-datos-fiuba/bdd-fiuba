@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Base de Datos"
+permalink: /
 ---
 
 # Base de Datos
