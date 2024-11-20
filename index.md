@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Base de Datos"
-permalink: /
+permalink: /bdd-fiuba
 ---
 
 # Base de Datos
