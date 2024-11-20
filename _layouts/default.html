@@ -4,17 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .navbar {
-            width: 100%; /* Ocupa todo el ancho */
+            width: 100%;
         }
         .navbar-nav {
-            flex-direction: row; /* Alinea los botones en línea horizontal */
-            justify-content: center; /* Centra los botones horizontalmente */
-            gap: 15px; /* Espacio entre botones */
-            width: 100%; /* Asegura que los elementos ocupen el ancho completo */
+            flex-direction: row;
+            justify-content: center;
+            gap: 15px; 
+            width: 100%;
         }
     </style>
 </head>
@@ -30,25 +29,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/">Inicio</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="materialDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Parcialitos
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="materialDropdown">
-                            {% for page in site.parcialitos %}
-                            <li>
-                                <a class="dropdown-item" href="{{ page.url | relative_url }}">
-                                    {{ page.title }}
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="parcialitos.html">Parcialitos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="formulario-inicio.html">Formulario</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="clases-virtuales.html">Clases Virtuales</a>
+                        <a class="nav-link" href="cronograma.html">Cronograma</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="slack.html">Grupo Slack</a>
@@ -61,12 +46,10 @@
         </div>
     </nav>
 
-    <!-- Main Content -->
     <div class="container main-content" style="min-height: 80vh; text-align: center;">
         {{ content }}
     </div>
 
-    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
