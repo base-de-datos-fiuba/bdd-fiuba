@@ -1,0 +1,24 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+
+main:
+  - title: "Parcialitos"
+    url: /parcialitos/
+
+  - title: "Cronograma"
+    url: https://www.youtube.com/watch?v=8lJhXJCUYCc    
+
+  - title: "Slack"
+    url: https://www.youtube.com/watch?v=8lJhXJCUYCc     
+
+  - title: "Régimen de Cursada"
+    url: /regimen/     
+    
+  - title: "Drive"
+    url: https://drive.google.com/drive/folders/1aOsz9-zne5kg774MeyBtyl2u6hc_zwPR?usp=sharing 
+
+  - title: "Docentes"
+    url: /docentes/
