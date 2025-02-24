@@ -1,17 +1,42 @@
-- name: "Juan Ignacio Giacobbe"
-  image: "/images/docentes/juan.png"
-  email: "jgiacobbe@fi.uba.ar"
-  slack: "https://basededatosfiuba.slack.com/team/U06P2U2MX6C"
+- name: "Lucas Román"
+  image: "/images/docentes/lucas.png"
+  email: "lucasroman91@gmail.com"
+  slack: "https://basededatosfiuba.slack.com/team/U66K61ADC"
 
-- name: "Juan Ignacio Giacobbe"
-  image: "/images/docentes/juan.png"
-  email: "jgiacobbe@fi.uba.ar"
-  slack: "https://basededatosfiuba.slack.com/team/U06P2U2MX6C"
+- name: "Alberto Fasce"
+  image: "/images/docentes/alberto.png"
+  email: "afasce@fi.uba.ar"
+  slack: "https://basededatosfiuba.slack.com/team/U65QEV3S8"
+
+- name: "Taiel Colavecchia"
+  image: "/images/docentes/taiel.png"
+  email: "tcolavecchia@fi.uba.ar  "
+  slack: "https://basededatosfiuba.slack.com/team/U01T7ML230E" 
+
+- name: "Lukas De Angelis Riva"
+  image: "/images/docentes/lukas.png"
+  email: "ldeangelis@fi.uba.ar"
+  slack: "https://basededatosfiuba.slack.com/team/U037AM3QF8S" 
+
+- name: "Sebastián Campoamor"
+  image: "/images/docentes/sebas.png"
+  email: "scampoamor@fi.uba.ar"
+  slack: "https://basededatosfiuba.slack.com/team/U05FPSQP17F" 
+
+- name: "Alejo Caliz Blanco"
+  image: "/images/docentes/alejo.png"
+  email: "acaliz@fi.uba.ar"
+  slack: "https://basededatosfiuba.slack.com/team/U05MWB64BL7" 
 
 - name: "Juan Ignacio Giacobbe"
   image: "/images/docentes/juan.png"
   email: "jgiacobbe@fi.uba.ar"
   slack: "https://basededatosfiuba.slack.com/team/U06P2U2MX6C" 
+
+- name: "Alberto Carmona"
+  image: "/images/docentes/beto.png"
+  email: "aacarmona@fi.uba.ar"
+  slack: "https://basededatosfiuba.slack.com/team/U07H5FVHX4P" 
 
 
 

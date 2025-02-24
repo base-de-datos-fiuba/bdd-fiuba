@@ -8,11 +8,11 @@ main:
   - title: "Parcialitos"
     url: /parcialitos/
 
-  - title: "Cronograma"
-    url: https://www.youtube.com/watch?v=8lJhXJCUYCc    
+  - title: "Calendar"
+    url: https://calendar.google.com/calendar/u/0?cid=Y19kMzcxMjNjZDVkOWJiMGNlOWE0NDQ2MTZmNWYzZDYzMTY5YjE0MmVmMDQwN2NhNTcyZDVkYjM1ZDBhODJlODg0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20    
 
   - title: "Slack"
-    url: https://www.youtube.com/watch?v=8lJhXJCUYCc     
+    url: https://join.slack.com/t/basededatosfiuba/shared_invite/zt-308h9qsqs-OAtWPkMwU_IdV3Ozo6h3Vg     
 
   - title: "Régimen de Cursada"
     url: /regimen/     
