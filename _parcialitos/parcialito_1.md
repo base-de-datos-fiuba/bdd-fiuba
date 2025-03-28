@@ -40,5 +40,6 @@ resultado de la misma.
 
 a) Muestre la/las películas que fueron dirigidas por Hitchcock (Alfred (I)) en las cuales
 Hitchcock además es actor.
+
 b) Mostrar los nombres y años de filmación, de la/las películas de género dramático (Drama)
 más vieja/s de la base.
