@@ -19,15 +19,15 @@ Los objetivos particulares son que los alumnos:
 - Se familiaricen con las tecnologı́as actuales en que las bases de datos se encuentran involucradas (como el procesamiento distribuído, OLAP, o el modelo MapReduce), adquiriendo las herramientas necesarias para extrapolar los conocimientos adquiridos en el curso a nuevas tecnologı́as.
 
 
-Contenidos mínimos
+Contenidos de la materia
 ======
 
 
 1. Sistemas de Gestión de Bases de Datos.
 2. Modelado conceptual de datos. El modelo Entidad-Interrelación (ER).
 3. El modelo lógico relacional.
-4. Normalización de datos. Dependencias funcionales y multivaluadas.
-5. Álgebra y cálculo relacionales.
+4. Álgebra Relacional.
+5. Normalización de datos. Dependencias funcionales y multivaluadas.
 6. El lenguaje SQL.
 7. Procesamiento y optimización de consultas.
 8. Control de concurrencia en bases de datos. Transacciones.
@@ -36,7 +36,7 @@ Contenidos mínimos
 11. Bases de datos espaciales.
 12. Introducción a las bases de datos distribuidas. Replicación y consistencia.
 13. NoSQL.
-14. Introducción a Data Warehousing.
+14. Migraciones de Bases de Datos.
 
 Bibliografía
 ======
