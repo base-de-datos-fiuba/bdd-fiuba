@@ -11,6 +11,17 @@ Este es el sitio de la materia Base de Datos(Cátedra Román) de la Facultad de 
 
 Ante cualquier duda o fallo en esta página, se le pide al usuario contactar a los integrantes del [Plantel Docente](/bdd-fiuba/docentes/). Se intentará resolver el problema a la brevedad.
 
+Fechas de Coloquio - Segundo Cuatrimestre de 2025
+======
+- Primera fecha: Miércoles 10 de diciembre
+- Segunda fecha: Miércoles 17 de diciembre
+- Tercera fecha: Miércoles 18 de febrero
+- Cuarta fecha: Miércoles 25 de febrero
+- Quinta fecha: Miércoles 04 de marzo
+
+Importante: Todos los exámenes son a las 19hs, y el aula se comunicará vía Slack el mismo día del examen.
+
+
 Objetivos
 ======
 Los objetivos particulares son que los alumnos:
