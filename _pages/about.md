@@ -19,7 +19,7 @@ Fechas de Coloquio - Segundo Cuatrimestre de 2025
 - Cuarta fecha: Miércoles 25 de febrero
 - Quinta fecha: Miércoles 04 de marzo
 
-Importante: Todos los exámenes son a las 19hs, y el aula se comunicará vía Slack el mismo día del examen.
+**Importante: Todos los exámenes son a las 19hs en el aula E9**.
 
 
 Objetivos
